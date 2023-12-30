@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["rectangular_pulse_shaping"],"mod":["shapes"],"struct":["Windowing"]};

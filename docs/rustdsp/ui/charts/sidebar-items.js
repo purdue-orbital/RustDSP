@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"mod":["builder","chart","line_chart"]};

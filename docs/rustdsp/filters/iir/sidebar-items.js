@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["FormulaEnum"],"fn":["general_form_iir"]};

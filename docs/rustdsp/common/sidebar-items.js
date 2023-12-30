@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["convolution","wgn"],"mod":["constellation","fftshift","generate_wave","goertzel_algorithm","rational_resampler"]};
