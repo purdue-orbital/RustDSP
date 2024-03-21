@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["decimate","downsample","interpolate","rational_resampler","zero_pad"]};

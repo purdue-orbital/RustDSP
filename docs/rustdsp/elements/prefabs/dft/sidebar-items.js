@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["dft","fft_shift","idft"]};

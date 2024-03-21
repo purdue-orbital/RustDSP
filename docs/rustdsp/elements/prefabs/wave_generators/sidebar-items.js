@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["wave_generator_complex_time_banked"]};

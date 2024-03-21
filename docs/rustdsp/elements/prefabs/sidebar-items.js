@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"mod":["dft","fir","nco","resampling","time_bank","wave_generators"],"trait":["Part"]};

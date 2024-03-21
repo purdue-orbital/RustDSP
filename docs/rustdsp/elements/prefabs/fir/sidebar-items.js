@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["fir_bpf_dft","fir_filter_dft","fir_hpf_dft","fir_lpf_dft"]};
